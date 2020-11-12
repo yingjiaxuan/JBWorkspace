@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="318728ab-e608-4697-a7cc-745950707310" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="macos_macos_x86_64" />
+  <component name="ProjectId" id="1jgGVb6uz8i2Xy9gZ9Q6Fdr1jHC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="hello world" type="AppleRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello world" TARGET_NAME="hello world" CONFIG_NAME="Debug" SCHEME_NAME="hello world" IS_LOCATION_SIMULATION_ALLOWED="true" APPLICATION_LANGUAGE="IDELaunchSchemeLanguageUseSystemLanguage" APPLICATION_REGION="" RUN_TARGET_PROJECT_NAME="hello world" RUN_TARGET_NAME="hello world" MAKE_ACTIVE="TRUE" SHOULD_DEBUG_EXTENSIONS="false">
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <embedded_app_extension_list />
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="318728ab-e608-4697-a7cc-745950707310" name="Default Changelist" comment="" />
+      <created>1604218348700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604218348700</updated>
+      <workItem from="1604218350250" duration="131000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1358" height="271" key="GridCell.Tab.0.bottom" timestamp="1604218481957">
+      <screen x="0" y="23" width="2048" height="1257" />
+    </state>
+    <state width="1358" height="271" key="GridCell.Tab.0.bottom/-1094.188.1094.811/0.23.2048.1257@0.23.2048.1257" timestamp="1604218481957" />
+    <state width="1358" height="271" key="GridCell.Tab.0.center" timestamp="1604218481956">
+      <screen x="0" y="23" width="2048" height="1257" />
+    </state>
+    <state width="1358" height="271" key="GridCell.Tab.0.center/-1094.188.1094.811/0.23.2048.1257@0.23.2048.1257" timestamp="1604218481956" />
+    <state width="1358" height="271" key="GridCell.Tab.0.left" timestamp="1604218481950">
+      <screen x="0" y="23" width="2048" height="1257" />
+    </state>
+    <state width="1358" height="271" key="GridCell.Tab.0.left/-1094.188.1094.811/0.23.2048.1257@0.23.2048.1257" timestamp="1604218481950" />
+    <state width="1358" height="271" key="GridCell.Tab.0.right" timestamp="1604218481956">
+      <screen x="0" y="23" width="2048" height="1257" />
+    </state>
+    <state width="1358" height="271" key="GridCell.Tab.0.right/-1094.188.1094.811/0.23.2048.1257@0.23.2048.1257" timestamp="1604218481956" />
+    <state width="600" height="400" key="NewXcodeProjectWizard" timestamp="1604218479909">
+      <screen x="0" y="23" width="2048" height="1257" />
+    </state>
+    <state width="600" height="400" key="NewXcodeProjectWizard/-1094.188.1094.811/0.23.2048.1257@0.23.2048.1257" timestamp="1604218479909" />
+  </component>
+</project>
